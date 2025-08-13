@@ -1,9 +1,9 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "0.2",
+  "versionId": "1.0",
   "name": "Create Conflicts",
-  "summary": "",
+  "summary": "Modpack doomed to create conflicts",
   "files": [
     {
       "path": "mods/XaerosWorldMap_1.39.12_NeoForge_1.21.jar",
@@ -162,7 +162,7 @@
         "sha1": "77dd28170d81af0f66656e18bffa19ff6ecc120a"
       },
       "env": {
-        "client": "required",
+        "client": "unsupported",
         "server": "required"
       },
       "downloads": [
@@ -177,7 +177,7 @@
         "sha1": "82eb9981a31a4753bb5022b5f64d5ec4f6a27071"
       },
       "env": {
-        "server": "required",
+        "server": "unsupported",
         "client": "required"
       },
       "downloads": [
@@ -297,7 +297,7 @@
         "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9"
       },
       "env": {
-        "client": "required",
+        "client": "unsupported",
         "server": "required"
       },
       "downloads": [
@@ -343,7 +343,7 @@
       },
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/RRxvWKNC/versions/QL8e10aI/LowOnFire%201.21.3.zip"
@@ -372,7 +372,7 @@
         "sha512": "a79d536ad610741d3ac25faeb4f32a7fff6d25b89529b5a4919d72b9f9f817a15680a734e5ccb50efd77737ff215089adb93d7a3c02b439c25b9dab988e41c36"
       },
       "env": {
-        "server": "required",
+        "server": "unsupported",
         "client": "required"
       },
       "downloads": [
@@ -492,7 +492,7 @@
         "sha512": "1e32f41e67e527c3c60149677a05b61c6d305e440812e29abba745b8ed304954780ca48d58b834c49835790bc3c4d38f37c893c5cbdfea9edc07b72e1dabd296"
       },
       "env": {
-        "server": "required",
+        "server": "unsupported",
         "client": "required"
       },
       "downloads": [
@@ -538,7 +538,7 @@
       },
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/2YyNMled/versions/3kR3A2kE/Dramatic%20Skys%20Demo%201.5.3.35.zip"
@@ -673,7 +673,7 @@
       },
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip"
@@ -898,7 +898,7 @@
       },
       "env": {
         "client": "required",
-        "server": "required"
+        "server": "unsupported"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/HVnmMxH1/versions/sAAjYvFB/ComplementaryReimagined_r5.5.1.zip"
