@@ -1,0 +1,13 @@
+{
+  "idle": {
+    "condition": "none"
+  },
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 30
+    },
+    "unplugged": {
+      "enable_vsync": false
+    }
+  }
+}
