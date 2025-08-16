@@ -91,11 +91,12 @@
 
 	# Configuration around framed drawers, which take their appearance from other blocks used as materials.
 	[Drawers.Framed]
-		# Allows crafting framed drawers.
+		# Allows crafting framed drawers.  Disabling does not remove existing framed drawers.
 		enable = true
 		# 
 		# Attempts to only allow solid, full-cube blocks to be used as materials.
 		# This check may still allow non-solid blocks if the blocks' properties indicate they should be solid but are not.
+		# Some non-solid blocks are also counted as non-opaque, and may be restricted by that setting as well.
 		enforceSolidMaterials = true
 		# 
 		# Attempts to only allow fully opaque blocks to be used as materials.

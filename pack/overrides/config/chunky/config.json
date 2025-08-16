@@ -1,8 +1,8 @@
 {
-  "version": 2,
-  "language": "en",
-  "continueOnRestart": false,
+  "continueOnRestart": true,
   "forceLoadExistingChunks": false,
+  "language": "en",
   "silent": false,
-  "updateInterval": 1
+  "updateInterval": 1,
+  "version": 2
 }
