@@ -1,5 +1,4 @@
 version:3955
-fastSeamless:false
 ao:true
 biomeBlendRadius:7
 enableVsync:false
@@ -16,7 +15,6 @@ prioritizeChunkUpdates:0
 fullscreen:true
 gamma:1.0
 graphicsMode:1
-guiScale:3
 maxFps:260
 mipmapLevels:4
 narrator:0
@@ -45,7 +43,6 @@ toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
-mouseSensitivity:0.16831536091549312
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
